@@ -7,8 +7,7 @@ Processing GIF Animation Generation
 2. Copy-Paste piday script below as a new file, and save it.
 3. Once 2 is done, download and extract gifAnimation to the /home/you/sketchbook/libraries/ , which should become existant after saving of the file.
 
-```
-#!javascript
+```javascript
 
 import gifAnimation.*;
  
