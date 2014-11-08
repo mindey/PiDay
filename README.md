@@ -5,7 +5,7 @@ Processing GIF Animation Generation
 
 1. Download Processing from processing.org
 2. Copy-Paste piday script below as a new file, and save it.
-3. Once 2 is done, download and extract gifAnimation to the /home/you/sketchbook/libraries/ , which should become existant after saving of the file.
+3. Once 2 is done, download and extract [gifAnimation](http://extrapixel.github.io/gif-animation/) to the /home/you/sketchbook/libraries/ , which should become existant after saving of the file.
 
 ```javascript
 
