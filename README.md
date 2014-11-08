@@ -8,7 +8,7 @@ Processing GIF Animation Generation
 3. Once 2 is done, download and extract gifAnimation to the /home/you/sketchbook/libraries/ , which should become existant after saving of the file.
 
 ```
-#!processing
+#!javascript
 
 import gifAnimation.*;
  
